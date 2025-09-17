@@ -1,5 +1,6 @@
-<img width="1851" height="2347" alt="pm2panel" src="https://github.com/user-attachments/assets/4e967004-76d0-41cf-a64d-3b877fb36a70" /># Pm2 Manager - Tüm işlemler tek dosyada!
+# PM2 Manager - Hepsi tek yerde!
 PM2 Manager ile çalıştırdığınız pm2'ye bağlı sistemlerinizi detaylı olarak görüntüleyip, pm2 ile yapabileceğiniz tüm işlemleri uzaktan yapabilirsiniz. Ayrıca editör sayesinde kod dosyalarınızı online olarak yönetebilirsiniz.
+
 <img width="1851" height="2347" alt="pm2panel" src="https://github.com/user-attachments/assets/8bf3b354-f60c-4a5f-8a51-8e96ef3d94b4" />
 
 
